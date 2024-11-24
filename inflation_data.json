@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2023-01",
+    "sarawak": 3.1,
+    "malaysia": 3.3,
+    "singapore": 4.0,
+    "us": 6.2
+  },
+  {
+    "date": "2023-02",
+    "sarawak": 3.2,
+    "malaysia": 3.4,
+    "singapore": 3.8,
+    "us": 6.0
+  },
+  {
+    "date": "2023-03",
+    "sarawak": 3.4,
+    "malaysia": 3.5,
+    "singapore": 3.9,
+    "us": 5.8
+  },
+  {
+    "date": "2023-04",
+    "sarawak": 3.6,
+    "malaysia": 3.8,
+    "singapore": 4.2,
+    "us": 5.7
+  }
+]
