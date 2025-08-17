@@ -24,9 +24,9 @@
     "import_duties": [0.10, 0.11, 0.12, 0.12, 0.08, 0.09, 0.09, 0.10, 0.09]
   },
   "capital_investments": {
-    "years": ["2022", "2023"],
-    "foreign_investment": [2.82, 1.71],
-    "domestic_investment": [3.73, 2.96]
+    "years": ["2022", "2023", "2024"],
+    "foreign_investment": [2.82, 1.71, 0.89],
+    "domestic_investment": [3.73, 2.96, 2.65]
   },
   "external_trade": {
     "years": ["2020", "2021", "2022", "2023", "2024"],
